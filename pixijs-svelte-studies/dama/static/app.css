@@ -1,0 +1,16 @@
+:root {
+  --dark-green: #1e352f;
+  --brunswick-green: #335145;
+  --moss-green: #828c51;
+  --olivine: #828c51;
+  --light-green: #828c51;
+
+  --font: #dcdcdc;
+}
+
+body,
+html {
+  width: 100dvw;
+  height: 100dvh;
+  background-color: var(--brunswick-green);
+}
